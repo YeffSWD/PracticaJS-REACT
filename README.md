@@ -5,3 +5,11 @@ La finalidad de este repositorio es la de llevar un registro de los conocimiento
 
 
 Dentro podrás encontrar dos carpetas una con los proyectos realizados por mi usando los conocimienttos adquiridos y otros que serán los proyectos guiados que se realizan en los cursos o video-tutoriales donde dejaré en cada readme el link al video visto para dar los créditos necesarios al autor.
+
+
+# npx create-react-app <nombre-proyecto>
+## npm start
+
+
+# npm create vite
+## npm run dev
