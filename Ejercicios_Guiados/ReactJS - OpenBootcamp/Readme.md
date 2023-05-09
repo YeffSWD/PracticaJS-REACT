@@ -20,4 +20,4 @@
 - contador-de-clics-clases: Este proyecto es la es el mismo que "contador-de-clics" con la diferencia de que ya no hacemos uso de componentes funcionales sino que usamos componentes de clase
 
 
-# Creditos a freeCodeCamp Español, link al video en youtube [aquí](https://www.youtube.com/watch?v=rLoWMU4L_qE&list=WL&index=9&t=126s)
+# Creditos a freeCodeCamp Español, link al video en youtube [aquí](https://youtu.be/6Jfk8ic3KVk)
